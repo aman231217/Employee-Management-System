@@ -19,7 +19,7 @@ header("location:index.php?page=home");
 
 ?>
 <?php include 'header.php' ?>
-<body class="hold-transition login-page bg-black">
+<body class="hold-transition login-page bg-pink">
   <h2><b><?php echo $_SESSION['system']['name'] ?> - Admin</b></h2>
 <div class="login-box">
   <div class="login-logo">
